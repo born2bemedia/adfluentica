@@ -4,7 +4,7 @@ title: "Terms of Service"
 
 ##### Please read the following carefully before accepting these terms and accessing, <br /> using, or registering for the Adfluentica website, services, or communications.
 
-These website terms of service (“Terms”) form a legally binding agreement between Youmedia LTD, operating under the brand Adfluentica, registered at 86-90 Paul Street, London, Greater London, England, EC2A 4NE, with registration number 16036781 (“Company,” “we,” “us,” or “our”), and you, a visitor or user of our website (“you” and “website,” respectively).
+These website terms of service (“Terms”) form a legally binding agreement between Youmedia LTD, operating under the brand Adfluentica, registered at 1 Kings Avenue, London, United Kingdom, N21 3NA, with registration number 16036781 (“Company,” “we,” “us,” or “our”), and you, a visitor or user of our website (“you” and “website,” respectively).
 
 By accessing the website, you confirm that you have read and understood these Terms. You agree to be bound by them and fully comply with applicable laws and regulations related to your use of the website or its services, as further detailed below.
 

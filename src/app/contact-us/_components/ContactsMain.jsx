@@ -56,7 +56,7 @@ const ContactsMain = () => {
                                 <div className="contacts-main__address">
                                     Registration:
                                     <br />
-                                    86-90 Paul Street, London, Greater London, England, EC2A 4NE
+                                    1 Kings Avenue, London, United Kingdom, N21 3NA
                                 </div>
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.3197569546373!2d-0.08625492290296817!3d51.52569477181754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ca55fd67523%3A0x1483f30997bfd8ba!2s86-90%20Paul%20St%2C%20London%20EC2A%204NE%2C%20UK!5e0!3m2!1sen!2sua!4v1735921334821!5m2!1sen!2sua" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
                             </div>

@@ -2,7 +2,7 @@
 title: "Privacy policy"
 ---
 
-Youmedia LTD, registered at 86-90 Paul Street, London, Greater London, England, EC2A 4NE, with registration number 16036781, and operating under Adfluentica (“Company”), respects your privacy concerns.
+Youmedia LTD, registered at 1 Kings Avenue, London, United Kingdom, N21 3NA, with registration number 16036781, and operating under Adfluentica (“Company”), respects your privacy concerns.
 
 This Privacy Policy explains the types of information we collect on [https://adfluentica.com/](https://adfluentica.com/) (the “Website”), how we use this information, with whom we share it, and your choices regarding its use.
 

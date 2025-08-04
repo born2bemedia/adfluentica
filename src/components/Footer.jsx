@@ -57,7 +57,7 @@ const Footer = () => {
                   </li>
                   <li className="footer__contact">
                     Registration: <br />
-                    86-90 Paul Street, London, Greater London, England, EC2A 4NE</li>
+                    1 Kings Avenue, London, United Kingdom, N21 3NA</li>
                   <li className="footer__contact">
                     Office: <br />
                     4th floor, office number 43, 1 Ropemaker St, London EC2V 9HT, UK</li>
